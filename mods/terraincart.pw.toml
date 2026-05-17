@@ -1,0 +1,13 @@
+name = "Terracart – Terrain Cart"
+filename = "terracart-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iLI71l5L/versions/vwwLYjRO/terracart-1.1.jar"
+hash-format = "sha512"
+hash = "c1d91e0d7d28f13ee0a95c73c70a4fb6b7a50a9c2f95b767ee94e4adf142352f78cf0e970e6ddf5f4ca0ba68d461f04d0260ce6fe8ff43bcadc2081a5c8ee6ff"
+
+[update]
+[update.modrinth]
+mod-id = "iLI71l5L"
+version = "vwwLYjRO"

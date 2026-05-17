@@ -1,0 +1,13 @@
+name = "okayy"
+author = "tony"
+version = "3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "327cd7502cbf60fbcaabacbaa671cac6ee46c4d004113a0e6b8a36b8067deec8"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "26.1.2"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Owl"
+filename = "animalgarden_owl-1.2.8-fabric-26.1.2-0.145.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gMz0rZEq/versions/EWQGjm2c/animalgarden_owl-1.2.8-fabric-26.1.2-0.145.4.jar"
+hash-format = "sha512"
+hash = "1051efd15f2e04ac5973dc0ab8092305ff0e1900253fcbb0f5e185c48ed34ee1646ad9f73bd5294c2b135d4391b1ee192f0e824d2566d50055f7433aded70569"
+
+[update]
+[update.modrinth]
+mod-id = "gMz0rZEq"
+version = "EWQGjm2c"

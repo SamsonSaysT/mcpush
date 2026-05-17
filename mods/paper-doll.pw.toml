@@ -1,0 +1,13 @@
+name = "Paper Doll"
+filename = "PaperDoll-v26.1.0-mc26.1.x-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hD0W2Wde/versions/ZexsfrPF/PaperDoll-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "25d4bb2d35cd559555558c9ed5a00a31e6098813513748baccc54aafed93406ed42fda679574b97b05de63e0790b366b21c3c6d31b34a1d7b755c0d3b09e9ada"
+
+[update]
+[update.modrinth]
+mod-id = "hD0W2Wde"
+version = "ZexsfrPF"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Narwhal"
+filename = "animalgarden-narwhal-1.0.1-fabric-26.1.1-0.145.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6u2gHW6/versions/KYqLWsHK/animalgarden-narwhal-1.0.1-fabric-26.1.1-0.145.3.jar"
+hash-format = "sha512"
+hash = "0854f03578c24d89e13936655afe57de4a8ba682a7d3d2f182410c09e7dff5ade3ab7cc1a8aaf2777e84895e1956b2532bded29e05ed89869086bcd1be687b4f"
+
+[update]
+[update.modrinth]
+mod-id = "L6u2gHW6"
+version = "KYqLWsHK"
