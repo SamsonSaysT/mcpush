@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "415148529391d74b7b4ae52773406982114545a4a5d373aaef9b0654099c5d77"
+hash = "8337c562c27815695f12945713297bba2e9f23875c0a30890c1685d679a619b9"
 
 [[files]]
 file = "config/autorun.properties"
@@ -10,11 +10,11 @@ hash = "e4ba4de0f9bcd484b83453626601db7f79f5a08a53c543831c4760056ddb82cb"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "6ec3865eed3a92eabe2f4280e9b620fb9ca2f2fd22068d06487d4eee77b8b060"
+hash = "2fe994ea74e8913184adb9a575445d6f0de35f0afd520f3ffed302892f07bb09"
 
 [[files]]
 file = "config/paperdoll-client.toml"
-hash = "98f120fab45d29d0a111417294f5f1c0c8a7606eb0da9dfa24cb72a2697f8d11"
+hash = "8a2d88255b8c29dfdd02ed47faa7722b4159346a400308580d163f35b3caa38e"
 
 [[files]]
 file = "mods/animal-garden-bull-shark.pw.toml"
