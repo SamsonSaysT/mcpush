@@ -14,7 +14,7 @@ hash = "2fe994ea74e8913184adb9a575445d6f0de35f0afd520f3ffed302892f07bb09"
 
 [[files]]
 file = "config/iris.properties"
-hash = "82c5ba4fa1e37d3378d185f0361ec96eb4b59c10fd9f8a419783ede7cd3dd53b"
+hash = "13757dedcc43ab12c00fd96478570ecdc3fd6bd826020cf0a03984440f945840"
 
 [[files]]
 file = "config/paperdoll-client.toml"
@@ -311,4 +311,4 @@ hash = "9c082960d858cc40b23b52563439b9790250dea9a7fb9a4ac00d2288aa1dbc2c"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.zip.txt"
-hash = "30e98a324942dba0fe4c42c4dcc427f65cd57a07bfbfa1fba19ea36b0d7f4d7f"
+hash = "114164b2d13ef3a6f68dac824a37c9f58b3dd1d3586a1bbd029355db421d4d83"
