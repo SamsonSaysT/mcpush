@@ -9,6 +9,10 @@ file = "config/autorun.properties"
 hash = "e4ba4de0f9bcd484b83453626601db7f79f5a08a53c543831c4760056ddb82cb"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "6ec3865eed3a92eabe2f4280e9b620fb9ca2f2fd22068d06487d4eee77b8b060"
+
+[[files]]
 file = "config/paperdoll-client.toml"
 hash = "98f120fab45d29d0a111417294f5f1c0c8a7606eb0da9dfa24cb72a2697f8d11"
 
