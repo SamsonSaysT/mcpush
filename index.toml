@@ -92,6 +92,11 @@ hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "996ec8b8484c0709cc66e7eaa7a22535375fab7aed76e2ec4db34b5323aa382f"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "69cc31128a2e9832a044af225e065df6aab8f020e11d84410df324e9973127f2"
 metafile = true
