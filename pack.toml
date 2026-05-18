@@ -1,12 +1,12 @@
 name = "okayy"
 author = "tony"
-version = "3.3"
+version = "3.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "884a0605e1c4691997b5d9e7b5aca4bfa4732730039a099f7a9e62436a3f191f"
+hash = "2f05a41c63fa3d5c2aa3134927155d4074d2bb22b2083b4e0ae9ef3e84849f44"
 
 [versions]
 fabric = "0.19.2"

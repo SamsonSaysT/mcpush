@@ -161,6 +161,11 @@ hash = "15ae0c68a42ce92de02770d3f33389e7b72c68e104f0f5f1d8612fd6637db90f"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "a10a7a7bf85ad07fd231373e760d7ccf1cebe5a493fa0b1d0ece2b01f5bdaf34"
 metafile = true
