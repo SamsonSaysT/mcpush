@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "e4ab52a2dd9fdfe82b98a1c61b225d94af689682d4fa123c0b7c1678a0b6a285"
+
+[[files]]
+file = "config/autorun.properties"
+hash = "e4ba4de0f9bcd484b83453626601db7f79f5a08a53c543831c4760056ddb82cb"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "6ec3865eed3a92eabe2f4280e9b620fb9ca2f2fd22068d06487d4eee77b8b060"
+
+[[files]]
+file = "config/paperdoll-client.toml"
+hash = "98f120fab45d29d0a111417294f5f1c0c8a7606eb0da9dfa24cb72a2697f8d11"
+
+[[files]]
 file = "mods/animal-garden-bull-shark.pw.toml"
 hash = "90c28524c2fac1ccba3677b06e41f7eb0c4de5e98192e9840aa1495ea9700c0d"
 metafile = true
