@@ -13,6 +13,10 @@ file = "config/betterf3.json"
 hash = "2fe994ea74e8913184adb9a575445d6f0de35f0afd520f3ffed302892f07bb09"
 
 [[files]]
+file = "config/iris.properties"
+hash = "82c5ba4fa1e37d3378d185f0361ec96eb4b59c10fd9f8a419783ede7cd3dd53b"
+
+[[files]]
 file = "config/paperdoll-client.toml"
 hash = "8a2d88255b8c29dfdd02ed47faa7722b4159346a400308580d163f35b3caa38e"
 
@@ -295,3 +299,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f27f5b486c792c796e451515c85b39b48c10840cfbec7f8632ed6c2643edde1e"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.zip"
+hash = "9c082960d858cc40b23b52563439b9790250dea9a7fb9a4ac00d2288aa1dbc2c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.zip.txt"
+hash = "30e98a324942dba0fe4c42c4dcc427f65cd57a07bfbfa1fba19ea36b0d7f4d7f"
