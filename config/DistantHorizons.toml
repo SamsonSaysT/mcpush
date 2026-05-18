@@ -5,6 +5,7 @@ _version = 4
 	# Defines the distance the player will receive updates around.
 	realTimeUpdateDistanceRadiusInChunks = 256
 	#
+	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
 	# If this value is empty, level key will be based on the server's seed hash.
