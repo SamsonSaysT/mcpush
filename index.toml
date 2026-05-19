@@ -221,11 +221,6 @@ hash = "6b2436524f61b38ecaa20c28492855625b480a2e50696ccfd078216246136efa"
 metafile = true
 
 [[files]]
-file = "mods/net-music.pw.toml"
-hash = "142763181d797051ed821193ffdb20c50f2d6c04fea0c1da39ffa0dde93da913"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
