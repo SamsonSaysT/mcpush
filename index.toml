@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "8337c562c27815695f12945713297bba2e9f23875c0a30890c1685d679a619b9"
-
-[[files]]
 file = "config/autorun.properties"
 hash = "e4ba4de0f9bcd484b83453626601db7f79f5a08a53c543831c4760056ddb82cb"
 
@@ -186,6 +182,11 @@ hash = "ec93f977f134dc3121150731cbf3be81ce2a307a28fb40f1688b1a1a7b8551c7"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "7a364e61268aa9007d2329b6db54e32c2ba0347618261f315dbbca313a12c78e"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "1dc144d8469941371cb90cdb245f88c88e49f2bf7cabacfd7433b41d54064495"
 metafile = true
@@ -213,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/mossylib.pw.toml"
 hash = "6b2436524f61b38ecaa20c28492855625b480a2e50696ccfd078216246136efa"
+metafile = true
+
+[[files]]
+file = "mods/net-music.pw.toml"
+hash = "142763181d797051ed821193ffdb20c50f2d6c04fea0c1da39ffa0dde93da913"
 metafile = true
 
 [[files]]
