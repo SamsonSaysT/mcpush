@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "2e005776386fcbf228ef99806bbe095a8d255c8db99109a365a37ebfd221c200"
+
+[[files]]
 file = "config/autorun.properties"
 hash = "e4ba4de0f9bcd484b83453626601db7f79f5a08a53c543831c4760056ddb82cb"
 
