@@ -45,6 +45,10 @@ file = "config/simplemenu/logo/logo.png"
 hash = "b9e93c00bea287874ef4a60cfa78e7a0f333f15682c8f3fe33c6a7147ddd6d18"
 
 [[files]]
+file = "config/splashchanger.json"
+hash = "40ad1d3485d0e6ed7fb2b7e27b36b92d6089b1266e9eaf43b0366daa70201806"
+
+[[files]]
 file = "mods/animal-garden-bull-shark.pw.toml"
 hash = "90c28524c2fac1ccba3677b06e41f7eb0c4de5e98192e9840aa1495ea9700c0d"
 metafile = true
@@ -312,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "61e81490e34e2fad9b8fda7419fd6ef72f3aad942ab210a70142af0bd806f409"
+metafile = true
+
+[[files]]
+file = "mods/splash-changer.pw.toml"
+hash = "0107b0bd30f92d7d9afeebfc0b5ad83b00a50e876f4e30cfc85c103bd52a96bf"
 metafile = true
 
 [[files]]

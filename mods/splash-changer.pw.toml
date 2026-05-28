@@ -1,0 +1,13 @@
+name = "Splash Changer"
+filename = "SplashChanger-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YHxZ7hct/versions/h0yWa6uI/SplashChanger-1.3.1.jar"
+hash-format = "sha512"
+hash = "6399ff183c500bfa16f9282ca2a19b3fffc3314930663831a6f37023be3199dcf9a7fbaf816793387b273faeecac48ae74ccc7d2cb3ccb44ad96c79ace8f196c"
+
+[update]
+[update.modrinth]
+mod-id = "YHxZ7hct"
+version = "h0yWa6uI"

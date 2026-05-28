@@ -1,0 +1,23 @@
+{
+  "splashMode": "RANDOM_SPLASH",
+  "customSplash": "Singular Splash!",
+  "customSplashes": [
+    "glizzy gobbilin!",
+    "Always check with the HOA",
+    "Mushroom Island Commies!",
+    "One time for Andy's art",
+	"Headshotz Killaz",
+	"Okayy!"
+  ],
+  "color": "YELLOW",
+  "customColor": "#ffaa88",
+  "gradientColor1": "#ffaa88",
+  "gradientColor2": "#55ff00",
+  "OBFUSCATED": false,
+  "BOLD": false,
+  "STRIKETHROUGH": false,
+  "UNDERLINE": false,
+  "ITALIC": false,
+  "disableButton": true,
+  "disableTitleClick": true
+}
