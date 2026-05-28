@@ -21,6 +21,30 @@ file = "config/paperdoll-client.toml"
 hash = "8a2d88255b8c29dfdd02ed47faa7722b4159346a400308580d163f35b3caa38e"
 
 [[files]]
+file = "config/simplemenu.json5"
+hash = "f9607c04d61e6f257fc98202205085a87eab2d36c34c334a9c28b12055f7eec6"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "755ab1ec8b61282ee187b0acb517fb5d4e1fc2fad0c65792e993445bec3485ee"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "52e3da53ea539829df122e5b7f638b01bff3e2c172c98a7ccfff694be686980d"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "e932fc280c6422d86498489365e709f96db66494b9ac72e1952aeb2bb27421d7"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "1a849a3bd7a33b4803fddce02ab255884fcc4e45314ce846a1cf96ab166e3082"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "b9e93c00bea287874ef4a60cfa78e7a0f333f15682c8f3fe33c6a7147ddd6d18"
+
+[[files]]
 file = "mods/animal-garden-bull-shark.pw.toml"
 hash = "90c28524c2fac1ccba3677b06e41f7eb0c4de5e98192e9840aa1495ea9700c0d"
 metafile = true
@@ -113,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "6f8497356da66a9100d4250d98785cd15fb69dc28290d2a69ccbe8bcfbc0b2af"
 metafile = true
 
 [[files]]
@@ -273,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b99a7098a4c9c1af146ee77d42a5a7442673052e023bb4971f2be5f1292da481"
+metafile = true
+
+[[files]]
+file = "mods/simple-menu.pw.toml"
+hash = "eaa346092697c35f7d4988c267f48df732aca86e3211227da9a413274f40fb85"
 metafile = true
 
 [[files]]
