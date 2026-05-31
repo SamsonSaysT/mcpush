@@ -1,0 +1,13 @@
+name = "FSit Continued"
+filename = "fsit-3.0.1-beta.1+mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dF99Qv0b/versions/UkPLpAoE/fsit-3.0.1-beta.1%2Bmc26.1.jar"
+hash-format = "sha512"
+hash = "819170acfc2c4eb93af1bea8e12774d27d63b779aa718bbc0450af42b78f8757e7d01e1bab4d693a7d92143851768f20095ebd80086127d091b5a36acd886847"
+
+[update]
+[update.modrinth]
+mod-id = "dF99Qv0b"
+version = "UkPLpAoE"
