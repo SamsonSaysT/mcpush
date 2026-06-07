@@ -294,6 +294,11 @@ hash = "35dcee0a0fe0a58dd126dd05ea6527580ee07c35474d4839007c00e8b3c03243"
 metafile = true
 
 [[files]]
+file = "mods/pocket_dimension.pw.toml"
+hash = "ff11bf99cf1eb2e10ae395c47e323866e3282795ad1826db58e0ca79fdae4eac"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
 metafile = true

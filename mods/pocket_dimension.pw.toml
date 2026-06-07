@@ -1,0 +1,13 @@
+name = "Pocket Dimensions"
+filename = "pocket_dimension-fabric-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ycIKn71C/versions/pXFWmEQY/pocket_dimension-fabric-3.1.jar"
+hash-format = "sha512"
+hash = "ad1a05fba5e6e5f302edf349fadbbd3c8ee2187795f0f4c5586ecf7443166c7f5e52eaa9e7e21f1adb92718d0f0cf5998bb2fc19ad32632e5ba05e2e27b539c9"
+
+[update]
+[update.modrinth]
+mod-id = "ycIKn71C"
+version = "pXFWmEQY"
