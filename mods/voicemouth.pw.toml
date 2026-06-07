@@ -1,0 +1,13 @@
+name = "VoiceMouth"
+filename = "voice-mouth-1.0.1-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTL1puzn/versions/Nb6js0qN/voice-mouth-1.0.1-26.1.jar"
+hash-format = "sha512"
+hash = "22dcf13a20c5e07218946368d8123a845dbb9cd6e86e1ed7bccc6141f1b3d7a32ad99d56f70813d950dc925600c2a126100feb6d4ba1debbcf5a0073a7baff3c"
+
+[update]
+[update.modrinth]
+mod-id = "LTL1puzn"
+version = "Nb6js0qN"

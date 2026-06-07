@@ -349,6 +349,11 @@ hash = "84cffe7c02600df1771ea1d48c6bf9b1cbff3385f5d06495a14f23bfd778f27d"
 metafile = true
 
 [[files]]
+file = "mods/voicemouth.pw.toml"
+hash = "c91de053157fd77113d5b7d74d8924cb7882fb55c1b0ffb5c92e4a722ef75e1e"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "4928ad19eebd85b73681130c0b2854d827cba116083d3388192e3ac174364f90"
 metafile = true
