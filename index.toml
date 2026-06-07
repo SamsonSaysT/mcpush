@@ -134,6 +134,11 @@ hash = "69cc31128a2e9832a044af225e065df6aab8f020e11d84410df324e9973127f2"
 metafile = true
 
 [[files]]
+file = "mods/cape-command.pw.toml"
+hash = "fa230d25f84a0d9d36d973948f12396577ff010855db668c51008dd546481903"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true

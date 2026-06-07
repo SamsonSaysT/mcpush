@@ -1,0 +1,13 @@
+name = "Cape Command"
+filename = "capecommand-fabric-0.3.0-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ck0I4Uep/versions/CFHvJ3sR/capecommand-fabric-0.3.0-26.1.jar"
+hash-format = "sha512"
+hash = "87bee973a855ebafa22379ec4f880eee4e1d6bed3bfea001f857d019e2b922d7bca454918ea7ebf4d89da1a16789ad52f98a4a6fd832bb04b25dc51c6f063a32"
+
+[update]
+[update.modrinth]
+mod-id = "Ck0I4Uep"
+version = "CFHvJ3sR"
