@@ -1,6 +1,6 @@
 name = "okayy"
 author = "tony"
-version = "3.4"
+version = "3.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
